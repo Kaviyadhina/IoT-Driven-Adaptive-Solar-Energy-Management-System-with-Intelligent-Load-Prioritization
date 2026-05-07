@@ -1,0 +1,2 @@
+# IoT-Driven-Adaptive-Solar-Energy-Management-System-with-Intelligent-Load-Prioritization
+— The‍‌‍‍‌‍‌‍‍‌ primary aim of the proposed project is to develop an innovative, safe, and energy-efficient solar power system using IoT technology. The central unit, which basically represents the brain of the entire setup, is an ESP32 microcontroller that continuously communicates with the sensors.
